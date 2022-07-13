@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: beige;
+    font-family: Tahoma, sans-serif;
+}
+
+body *{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    background-color: crimson;
+    border: none;
+    width: 25px;
+    height: 20px;
+}
+
+span{
+    margin-right: 50px;
+    margin-left: 50px;
+}
